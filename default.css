@@ -1,0 +1,6 @@
+:root{
+    --main-color:rgb(255, 99, 71);
+    --white-color:#f2f2f2;
+    --black-color:#020202;
+    --gradient:linear-gradient(to right, rgba(255, 99, 71, 0.3), rgba(255, 99, 71,0.3));
+}
